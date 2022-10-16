@@ -1,12 +1,27 @@
 body{
-    background-color: #a470e7;
-    text-align: center;
-    border-radius: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-indent: 30px;
+    background-color: #6fb8f8;
+    font: normal 16pt Arial;
 }
-div{
-    background-color: #CEB8EC;
-    box-shadow: 5px 5px 5px;
-    border-radius: 15px;
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px;
+}
+
+select{
+    width: 200px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
 }
